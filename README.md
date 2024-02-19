@@ -61,7 +61,6 @@ For collaborations or just a friendly conversation, reach out via:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St3v3-B&theme=algolia&layout=compact" alt="Top Languages" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=St3v3-B.St3v3-B" alt="visitor badge"/>
 </p>
 
 <p align="center">
