@@ -40,7 +40,7 @@ On a trajectory towards becoming a full-time teacher, I am open to discovering n
 For collaborations or just a friendly conversation, reach out via:
 
 - **GitHub**: [St3v3-B](https://github.com/St3v3-B)
-- **Email**: [Insert Your Email]
+- **Email**: [Email](mailto:stevebussing28@oulook.com)
 - **LinkedIn**: [Steve B](https://www.linkedin.com/in/steve-b-65b034172/)
 - **Twitter**: [@St3v3B_](https://twitter.com/St3v3B_)
 
@@ -55,4 +55,16 @@ For collaborations or just a friendly conversation, reach out via:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=St3v3-B&theme=algolia&row=1&column=6" alt="Trophies" />
+</p>
+
+## 📈 More Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St3v3-B&theme=algolia&layout=compact" alt="Top Languages" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=St3v3-B&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=St3v3-B.St3v3-B" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Readme Quotes" />
 </p>
